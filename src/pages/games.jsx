@@ -4,7 +4,6 @@ import { Parallax } from "react-parallax";
 import Navbar from "../layout/Navbar";
 import Preloader from "../layout/preloader";
 import Collection from "../section-pages/Collection";
-import Help from "../section-pages/help";
 import Footer from "../section-pages/footer";
 import ScrollToTopBtn from "../layout/ScrollToTop";
 import { createGlobalStyle } from "styled-components";

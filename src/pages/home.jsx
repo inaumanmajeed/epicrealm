@@ -8,7 +8,6 @@ import Sectioncol from '../section-pages/section-3col';
 import Location from '../section-pages/Location';
 import Section1 from '../section-pages/section-1';
 import Collection from '../section-pages/Collection';
-import Help from '../section-pages/help';
 import Download from '../section-pages/Download';
 import Blog from '../section-pages/Blog';
 import Footer from '../section-pages/footer';

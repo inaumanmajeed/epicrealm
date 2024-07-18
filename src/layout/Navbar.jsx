@@ -32,14 +32,14 @@ const Navbar = () => {
   };
 
   const {
-    isOpen: openMenu,
+    // isOpen: openMenu,
     toggleDropdown: handleBtnClick,
     closeDropdown: closeMenu,
     ref,
   } = useDropdown();
   const {
-    isOpen: openMenu1,
-    toggleDropdown: handleBtnClick1,
+    // isOpen: openMenu1,
+    // toggleDropdown: handleBtnClick1,
     closeDropdown: closeMenu1,
     ref: ref1,
   } = useDropdown();
