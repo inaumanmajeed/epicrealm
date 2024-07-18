@@ -34,7 +34,7 @@ const Sectioncol = () => {
             <p>
               Have questions or need assistance? Our dedicated support team is
               available 24/7 to help you with any issues or inquiries. Contact
-              us anytime for prompt and reliable support. We're here to ensure
+              us anytime for prompt and reliable support. We are here to ensure
               your gaming experience is smooth and enjoyable.
             </p>
             <Link className="btn-line lg-w-50" to="/contact">

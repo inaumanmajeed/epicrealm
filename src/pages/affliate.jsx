@@ -98,7 +98,7 @@ export default function Home() {
                   <h4>Get Your Commision</h4>
                   <p className="justify">
                     Earn commissions for every successful referral! Once your
-                    referrals make a purchase through your link, you'll receive
+                    referrals make a purchase through your link, you will receive
                     commissions directly to your account. Start earning rewards
                     for every sale today!
                   </p>
