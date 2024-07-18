@@ -1,7 +1,7 @@
 {
   "name": "epicrealm",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://inaumanmajeed.github.io/epicrealm",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
