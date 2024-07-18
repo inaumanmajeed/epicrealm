@@ -1,9 +1,6 @@
-import { Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import {
-  Navigation,
   Autoplay,
-  Thumbs,
 } from "swiper/modules";
 
 const reviewsData = [
